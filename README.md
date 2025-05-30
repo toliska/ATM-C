@@ -64,5 +64,4 @@ Select an option:
 ## 👨‍💻 Author
 
 - **Name**: Apostolos Katsios  
-- **AEM**: 24075  
-- **Email**: apokatsi@ihu.gr
+- **Email**: apostoliskatsios@gmail.com
